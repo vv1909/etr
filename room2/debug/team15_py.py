@@ -5,4 +5,4 @@ def reverse_list(lst):
 
     return new_list
 
-print(reverse_list([1, 2, 3])) #Expected Output: "3, 2, 1"
+print(reverse_list([1, 2, 3]))

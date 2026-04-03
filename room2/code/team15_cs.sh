@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ -z "$1" ]; then
-    echo "pass s file as an argument.."
+    echo "pass a file as an argument.."
     exit 1
 fi
 
